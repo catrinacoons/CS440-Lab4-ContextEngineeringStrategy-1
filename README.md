@@ -1,5 +1,5 @@
-# CS440-Lab4-ContextEngineeringStrategy-1
-Student Repository for configuring the Write (Persistent Memory Architecture) Context Engineering Strategy for AI for the CS440-Lab 4 assignment
+# CS440-Lab4-Group-11
+Student Repository for configuring the Context Engineering Strategies for AI for the CS440-Lab 4 assignment
 
 
 ## Write (Persistent Memory Architecture) Overview:
