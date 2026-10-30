@@ -17,7 +17,7 @@ The sub-agents are:
 3. transition-agent: identifies transition rules, reward values, asks questions.
 
 ## Directory Structure
-
+```
 CLAUDE.md  
 README.md  
 .claude/
@@ -36,3 +36,4 @@ context/
 ├──vacuum-environment.md
 scripts/  
 ├──context-switcher.sh   
+```
